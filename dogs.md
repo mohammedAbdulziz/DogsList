@@ -6,4 +6,4 @@
 5. Husky 
 6. Tiger
 7. Gogy
-8. Buba
+8. BubaSs
